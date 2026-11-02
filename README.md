@@ -2,7 +2,7 @@
 
 Research code for **Severity-Calibrated Open-world Residual Evidence MIL (SCORE-MIL)**. The repository keeps the ordinal attention model, known-only calibration, pseudo-unknown evaluation, paired case bootstrap, tile/feature audits, and the scale-by-encoder experiment together with their focused tests.
 
-This is an experimental research repository. The included real-data results are development findings, not an independent clinical evaluation. No hospital images, patient-level manifests, feature arrays, checkpoints, or validation prediction tables belong in this repository.
+This is an experimental research repository. Any real-data results produced by these scripts are development findings, not an independent clinical evaluation. No hospital images, patient-level manifests, feature arrays, checkpoints, validation prediction tables, or real-data metrics are included in this repository.
 
 ## Quick start: run the synthetic example
 
