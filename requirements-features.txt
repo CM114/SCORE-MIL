@@ -1,0 +1,3 @@
+-r requirements.txt
+timm==1.0.5
+# Install a torchvision build that matches the existing PyTorch/CUDA build.
